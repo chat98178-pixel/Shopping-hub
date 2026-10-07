@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <EditText
+        android:id="@+id/etCouponCodeAdd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Coupon Code (e.g. FLASH70)"
+        android:textAllCaps="true" />
+
+    <EditText
+        android:id="@+id/etCouponAmtAdd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:hint="Discount Amount (Rs)"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/etCouponMinAdd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:hint="Minimum Order Value (Rs)"
+        android:inputType="numberDecimal" />
+
+</LinearLayout>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445309278116",
+    "project_id": "shopzon-d1aa9",
+    "storage_bucket": "shopzon-d1aa9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445309278116:android:819405aa5acfb330c89331",
+        "android_client_info": {
+          "package_name": "com.example.shopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFw45DUJ0CI5PHemVczKZcSe6VvjsOTME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

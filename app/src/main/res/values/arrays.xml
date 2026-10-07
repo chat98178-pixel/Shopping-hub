@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>Fashion</item>
+        <item>Electronics</item>
+        <item>Grocery</item>
+        <item>Beauty</item>
+        <item>Other</item>
+    </string-array>
+</resources>

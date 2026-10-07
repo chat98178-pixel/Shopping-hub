@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Shopping Hub</string>
+
+    <!-- Login Screen -->
+    <string name="login_welcome">Welcome to Shopping Hub</string>
+    <string name="login_title">Welcome Back</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="dont_have_account_register">Don\'t have an account? Register</string>
+    <string name="invalid_credentials">Invalid email or password. Please try again.</string>
+    <string name="email_required">Email is required</string>
+    <string name="password_required">Password is required</string>
+    <string name="password_too_short">Password must be at least 8 characters</string>
+    <string name="login_successful">Login Successful</string>
+
+    <!-- Register Screen -->
+    <string name="register_welcome">Join Shopping Hub</string>
+    <string name="register_title">Create Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="already_have_account_login">Already have an account? Login</string>
+    <string name="full_name_required">Full Name is required</string>
+    <string name="passwords_do_not_match">Passwords do not match</string>
+    <string name="registration_successful">Registration Successful</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="phone_required">Phone Number is required</string>
+    <string name="invalid_phone_error">Phone number must be exactly 10 digits</string>
+    <string name="gmail_required_error">Only @gmail.com accounts are allowed</string>
+
+    <!-- Main Screen -->
+    <string name="main_screen">Shopping Hub Dashboard</string>
+    <string name="search_hint">Search in Shopping Hub...</string>
+    <string name="logout">Logout</string>
+    <string name="profile_title">Shopping Hub Profile</string>
+    <!-- Admin Hub -->
+    <string name="merchant_hub_title">Shopping Hub Merchant Center</string>
+</resources>
